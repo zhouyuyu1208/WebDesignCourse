@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDesignTutorial/08 实训4：Git 与 GitHub/2 教师演示：利用 GitHub(40min).md",
+                "file": "WebDesignTutorial/10 七、CSS 入门/2 为休闲吧增加样式(15min).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDesignTutorial/08 实训4：Git 与 GitHub/2 教师演示：利用 GitHub(40min).md",
+                "file": "WebDesignTutorial/10 七、CSS 入门/2 为休闲吧增加样式(15min).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDesignTutorial/08 实训4：Git 与 GitHub/2 教师演示：利用 GitHub(40min).md",
+                "file": "WebDesignTutorial/10 七、CSS 入门/2 为休闲吧增加样式(15min).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDesignTutorial/08 实训4：Git 与 GitHub/2 教师演示：利用 GitHub(40min).md"
+                "file": "WebDesignTutorial/10 七、CSS 入门/2 为休闲吧增加样式(15min).md"
               }
             }
           }
@@ -138,7 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
+      "canvas:Create new canvas": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -148,23 +148,15 @@
   },
   "active": "93e169989886de3d",
   "lastOpenFiles": [
-    "WebDesignTutorial/08 实训4：Git 与 GitHub/2 操作演示：利用 Github.md",
+    "WebDesignTutorial/10 七、CSS 入门/1 写一条 CSS 规则(15min).md",
+    "WebDesignTutorial/09 六、网页中的图像/3 图像标签(30min).md",
+    "WebDesignTutorial/09 六、网页中的图像/1 浏览器如何处理图像(10min).md",
     "WebDesignTutorial/08 实训4：Git 与 GitHub/2 教师演示：利用 GitHub(40min).md",
+    "WebDesignTutorial/08 实训4：Git 与 GitHub/2 操作演示：利用 Github.md",
     "WebDesignTutorial/08 实训4：Git 与 GitHub/1 程序员的圣地 Github(10min).md",
     "WebDesignTutorial/08 实训4：Git 与 GitHub/1 程序员的圣地 Github.md",
     "WebDesignTutorial/07 五、重新组织网站/4 课程总结(5min).md",
     "WebDesignTutorial/08 实训4：Git 与 GitHub/3 上机实训(30min).md",
-    "WebDesignTutorial/08 实训4：Git 与 GitHub/3 上机实训.md",
-    "WebDesignTutorial/07 五、重新组织网站/3 用文件夹组织网站(20min).md",
-    "WebDesignTutorial/07 五、重新组织网站/3 调试超链接及图片路径(15min).md",
-    "WebDesignTutorial/07 五、重新组织网站/2 绝对路径和相对路径(30min).md",
-    "WebDesignTutorial/07 五、重新组织网站/1 用文件夹组织网站(20min).md",
-    "WebDesignTutorial/07 五、重新组织网站/0 课程引入(10min).md",
-    "WebDesignTutorial/06 四、深入理解超文本/4 课程总结(5min).md",
-    "WebDesignTutorial/06 四、深入理解超文本/3 提交新版至 git 仓库(15min).md",
-    "WebDesignTutorial/06 四、深入理解超文本/2 属性和元素(30min).md",
-    "WebDesignTutorial/06 四、深入理解超文本/0 课程引入(10min).md",
-    "WebDesignTutorial/06 四、深入理解超文本/1 改进休闲吧(20min).md",
-    "WebDesignTutorial/04 四、Git 工具介绍/2 Git 命令初探.md"
+    "WebDesignTutorial/08 实训4：Git 与 GitHub/3 上机实训.md"
   ]
 }
