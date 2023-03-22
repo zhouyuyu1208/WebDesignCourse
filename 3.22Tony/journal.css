@@ -1,0 +1,22 @@
+html {
+    font-family: Verdana, Geneva, Arial ;
+    font-size: 12px
+}
+
+h1{
+    font-size: 2.2rem;
+}
+
+h2{
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+
+h1,h2{
+    color: #cc6600;
+    border-bottom: thin dotted #888888;
+}
+
+blockquote{
+    font-style: oblique;
+}                               
