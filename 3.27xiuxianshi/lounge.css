@@ -1,6 +1,6 @@
 body{
   font-size:small;
-  font-family: Georgia, "Times New Roman";
+  font-family: Verdana, Helvetica, Arial;
   line-height: 1.6em;
 }
 
@@ -26,4 +26,5 @@ h2{
   line-height: 1.9em;
   font-style: italic;
   color: #444444;
+  font-family: Georgia, "Times New Roman";
 }
