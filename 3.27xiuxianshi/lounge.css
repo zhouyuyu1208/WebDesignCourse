@@ -15,3 +15,12 @@ h1{
 h2{
   font-size:1.3em;
 }
+
+.guarantee {
+  border-color:white;
+  border-width:1px;
+  border-style:dashed;
+  background-color:#a7cece;
+  padding:25px;
+  margin:30px;
+}
