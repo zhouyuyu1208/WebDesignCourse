@@ -1,9 +1,7 @@
 body{
   font-size:small;
   font-family: Georgia, "Times New Roman";
-  line-height: 1.9em;
-  font-style: italic;
-  color: #444444;
+  line-height: 1.6em;
 }
 
 h1,h2{
@@ -25,4 +23,7 @@ h2{
   background-color: #a7cece;
   padding: 25px;
   margin: 30px;
+  line-height: 1.9em;
+  font-style: italic;
+  color: #444444;
 }
