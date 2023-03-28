@@ -33,8 +33,13 @@ h2{
   padding: 25px;
   padding-left: 80px;
   margin-right: 250px;
+  border-style: dotted;
   border-color: #a5432a;
   border-width:thick;
+  border-top-color: #ee12ee;
+  border-left-color: #678906;
+  border-right-color: #987498;
+  border-radius: 80px;
   /*画一个圆形
   margin-right: 650px;
   border-radius: 650px;*/
