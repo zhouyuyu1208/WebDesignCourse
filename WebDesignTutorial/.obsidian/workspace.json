@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0f41429543088b8d",
+        "id": "8624096463b4129f",
         "type": "tabs",
         "children": [
           {
-            "id": "93e169989886de3d",
+            "id": "f9d89bc2c1fb7fb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDesignTutorial/15 实训5：改造 Tony 的旅行日志/1 上机实训：HTML 改造(20min).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d6472aa19d08d97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebDesignTutorial/17 实训6：更多的盒模型设置/2 上机实训：边框指南(20min).md",
+                "file": "WebDesignTutorial/18 十三、div/3 为分区增加特定样式(20min).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDesignTutorial/17 实训6：更多的盒模型设置/2 上机实训：边框指南(20min).md",
+                "file": "WebDesignTutorial/18 十三、div/3 为分区增加特定样式(20min).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDesignTutorial/17 实训6：更多的盒模型设置/2 上机实训：边框指南(20min).md",
+                "file": "WebDesignTutorial/18 十三、div/3 为分区增加特定样式(20min).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDesignTutorial/17 实训6：更多的盒模型设置/2 上机实训：边框指南(20min).md"
+                "file": "WebDesignTutorial/18 十三、div/3 为分区增加特定样式(20min).md"
               }
             }
           }
@@ -159,17 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9d6472aa19d08d97",
+  "active": "f9d89bc2c1fb7fb1",
   "lastOpenFiles": [
+    "WebDesignTutorial/18 十三、div/2 为 elixirs 增加样式(30min).md",
+    "WebDesignTutorial/18 十三、div/3 为分区增加特定样式(20min).md",
+    "WebDesignTutorial/18 十三、div/1 为页面逻辑分区(15min).md",
+    "WebDesignTutorial/15 实训5：改造 Tony 的旅行日志/1 上机实训：HTML 改造(20min).md",
+    "WebDesignTutorial/17 实训6：更多的盒模型设置/2 上机实训：边框指南(20min).md",
     "WebDesignTutorial/17 实训6：更多的盒模型设置/5 展示点评(10min).md",
     "WebDesignTutorial/17 实训6：更多的盒模型设置/4 上机实训：休闲室中的 id(10min).md",
-    "WebDesignTutorial/17 实训6：更多的盒模型设置/2 上机实训：边框指南(20min).md",
     "WebDesignTutorial/17 实训6：更多的盒模型设置/1 上机实训：增加背景图片(20min).md",
     "WebDesignTutorial/16 十二、盒模型/4 课程小结(5min).md",
-    "WebDesignTutorial/16 十二、盒模型/3 改造休闲室(25min).md",
-    "WebDesignTutorial/16 十二、盒模型/2 了解盒模型(30min).md",
-    "WebDesignTutorial/16 十二、盒模型/1 创建新的休闲室(10min).md",
-    "WebDesignTutorial/17 实训6：更多的盒模型设置/3 教师演示：class 和 id(10min).md",
-    "WebDesignTutorial/17 实训6：更多的盒模型设置/0 课程引入(10min).md"
+    "WebDesignTutorial/16 十二、盒模型/3 改造休闲室(25min).md"
   ]
 }
