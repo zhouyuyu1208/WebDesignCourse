@@ -57,8 +57,9 @@ h2{
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
   text-align: center;
+  line-height: 1;
 }
 
-div h2 {
+.elixirs h2 {
   color: black;
 }
