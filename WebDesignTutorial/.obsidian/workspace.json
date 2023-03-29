@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDesignTutorial/16 十二、盒模型/4 课程小结(5min).md",
+                "file": "WebDesignTutorial/17 实训6：更多的盒模型设置/2 上机实训：边框指南(20min).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDesignTutorial/16 十二、盒模型/4 课程小结(5min).md",
+                "file": "WebDesignTutorial/17 实训6：更多的盒模型设置/2 上机实训：边框指南(20min).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDesignTutorial/16 十二、盒模型/4 课程小结(5min).md",
+                "file": "WebDesignTutorial/17 实训6：更多的盒模型设置/2 上机实训：边框指南(20min).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDesignTutorial/16 十二、盒模型/4 课程小结(5min).md"
+                "file": "WebDesignTutorial/17 实训6：更多的盒模型设置/2 上机实训：边框指南(20min).md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "9d6472aa19d08d97",
   "lastOpenFiles": [
+    "WebDesignTutorial/17 实训6：更多的盒模型设置/5 展示点评(10min).md",
+    "WebDesignTutorial/17 实训6：更多的盒模型设置/4 上机实训：休闲室中的 id(10min).md",
+    "WebDesignTutorial/17 实训6：更多的盒模型设置/2 上机实训：边框指南(20min).md",
+    "WebDesignTutorial/17 实训6：更多的盒模型设置/1 上机实训：增加背景图片(20min).md",
+    "WebDesignTutorial/16 十二、盒模型/4 课程小结(5min).md",
     "WebDesignTutorial/16 十二、盒模型/3 改造休闲室(25min).md",
     "WebDesignTutorial/16 十二、盒模型/2 了解盒模型(30min).md",
     "WebDesignTutorial/16 十二、盒模型/1 创建新的休闲室(10min).md",
-    "WebDesignTutorial/17 实训6：更多的盒模型设置/1 上机实训：增加背景图片(20min).md",
-    "WebDesignTutorial/17 实训6：更多的盒模型设置/2 上机实训：边框指南(20min).md",
     "WebDesignTutorial/17 实训6：更多的盒模型设置/3 教师演示：class 和 id(10min).md",
-    "WebDesignTutorial/17 实训6：更多的盒模型设置/4 上机实训：休闲室中的 id(10min).md",
-    "WebDesignTutorial/17 实训6：更多的盒模型设置/5 展示点评(10min).md",
-    "WebDesignTutorial/17 实训6：更多的盒模型设置/0 课程引入(10min).md",
-    "WebDesignTutorial/16 十二、盒模型/4 课程小结(5min).md"
+    "WebDesignTutorial/17 实训6：更多的盒模型设置/0 课程引入(10min).md"
   ]
 }
