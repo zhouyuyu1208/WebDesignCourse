@@ -72,3 +72,11 @@ h2{
   line-height: normal;
   margin-top: 30px;
 }
+
+.cd {
+  font-style: italic;
+}
+
+.artist {
+  font-weight: bold;
+}
