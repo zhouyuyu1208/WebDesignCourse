@@ -46,13 +46,15 @@ h2{
 }
 
 .elixirs{
-  border-width: thin;
+  /*border-width: thin;
   border-style: solid;
-  border-color: #007e7e;
+  border-color: #007e7e;*/
+  border: thin solid #007e7e;
   width: 200px;
-  padding-right: 20px;
+  /*padding-right: 20px;
   padding-bottom: 20px;
-  padding-left: 20px;
+  padding-left: 20px;*/
+  padding: 20px;
   margin-left: 20px;
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
@@ -62,4 +64,11 @@ h2{
 
 .elixirs h2 {
   color: black;
+}
+
+.footer {
+  font-size: .5em;
+  text-align: center;
+  line-height: normal;
+  margin-top: 30px;
 }
