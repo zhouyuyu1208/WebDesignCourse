@@ -9,3 +9,23 @@ h1,h2 {
 h1 {
   font-weight: 200;
 }
+
+.green-font {
+  color: green;
+}
+
+.red-font {
+  color: red;
+}
+
+.blue-font {
+  color: blue;
+}
+
+.aaa {
+  color: pink;
+}
+
+#bbb {
+  color: purple;
+}
