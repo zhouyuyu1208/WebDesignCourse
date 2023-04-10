@@ -22,10 +22,14 @@ h1 {
   color: blue;
 }
 
-.aaa {
+p.aaa {
   color: pink;
 }
 
-#bbb {
+p#bbb {
   color: purple;
+}
+
+p {
+  color: aqua;
 }
