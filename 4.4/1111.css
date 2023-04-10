@@ -1,5 +1,5 @@
 .eee {
-  color: red;
+  color:red;
 }
 
 h1,h2 {
@@ -11,25 +11,33 @@ h1 {
 }
 
 .green-font {
-  color: green;
+  color:green;
 }
 
 .red-font {
-  color: red;
+  color:red;
 }
 
 .blue-font {
-  color: blue;
+  color:blue;
 }
 
 p.aaa {
-  color: pink;
+  color:pink;
 }
 
 p#bbb {
-  color: purple;
+  color:purple;
 }
 
 p {
-  color: aqua;
+  color:aqua;
+}
+
+body h1 {
+  color:chartreuse;
+}
+
+h1 {
+  color:hotpink;
 }
