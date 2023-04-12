@@ -94,3 +94,16 @@ h2{
   background: #f88396;
   color: #0d5353;
 }
+
+.left {
+	margin-right: 10px;
+}
+
+.right {
+	margin-left: 20px;
+}
+
+.ruler {
+	display: inline-block;
+	width: 30px;
+}
