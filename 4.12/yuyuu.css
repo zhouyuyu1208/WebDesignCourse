@@ -1,4 +1,19 @@
+.left {
+	margin-right: 10px;
+}
+
 .right {
+	margin-left: 20px;
+}
+
+.ruler {
+	display: inline-block;
+	width: 28px;
+  height: 16px;
+  border: 1px solid red;
+}
+
+div.right {
 	float: right;
 }
 
@@ -8,14 +23,20 @@ div.block {
 	border: 2px solid black;
 }
 
-.top {
+div.top {
 	margin-bottom: 10px;
 }
 
-.bottom {
+div.bottom {
 	margin-top: 20px;
 }
 
-.ruler {
-	height: 20px;
+div.ruler {
+	height: 18px;
+  border: 2px solid black;
+}
+
+.float-block {
+	width: 200px;
+	float: right;
 }

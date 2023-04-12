@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDesignTutorial/21 十六、流 Flow/2 关于外边距的补充(30min).md",
+                "file": "WebDesignTutorial/22 十七、浮动 Float/1 观察元素的浮动(25min).md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDesignTutorial/21 十六、流 Flow/2 关于外边距的补充(30min).md",
+                "file": "WebDesignTutorial/22 十七、浮动 Float/1 观察元素的浮动(25min).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDesignTutorial/21 十六、流 Flow/2 关于外边距的补充(30min).md",
+                "file": "WebDesignTutorial/22 十七、浮动 Float/1 观察元素的浮动(25min).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDesignTutorial/21 十六、流 Flow/2 关于外边距的补充(30min).md"
+                "file": "WebDesignTutorial/22 十七、浮动 Float/1 观察元素的浮动(25min).md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "f9d89bc2c1fb7fb1",
   "lastOpenFiles": [
-    "WebDesignTutorial/21 十六、流 Flow/1 一个两栏页面(30min).md",
+    "WebDesignTutorial/22 十七、浮动 Float/1 观察元素的浮动.md",
+    "WebDesignTutorial/22 十七、浮动 Float/2 新的 Starbuzz 页面(15min).md",
     "WebDesignTutorial/21 十六、流 Flow/2 关于外边距的补充(30min).md",
+    "WebDesignTutorial/22 十七、浮动 Float/1 观察元素的浮动(25min).md",
+    "WebDesignTutorial/22 十七、浮动 Float/2 新的 Starbuzz 页面.md",
+    "WebDesignTutorial/22 十七、浮动 Float/0 课程引入(5min).md",
+    "WebDesignTutorial/21 十六、流 Flow/1 一个两栏页面(30min).md",
     "WebDesignTutorial/21 十六、流 Flow/0 课程引入(10min).md",
     "WebDesignTutorial/20 十五、层叠 Cascading/4 课程小结(10min).md",
     "WebDesignTutorial/13 十、字体样式/3 重新认识 font-size(20min).md",
