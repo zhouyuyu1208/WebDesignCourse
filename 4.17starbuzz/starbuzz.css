@@ -24,13 +24,13 @@ body {
   padding:          15px;
   margin:           0px 10px 10px 10px;
   width: 280px;
-  /*float: right;*/
-  position: absolute;
+  float: right;
+  /*position: absolute;
 	top: 100px;
 	right: 200px;
-  /*bottom: 100px;
-  left: 200px;*/
-  z-index: 1;
+  bottom: 100px;
+  left: 200px;
+  z-index: 100;*/
 }
 
 .footer {
@@ -75,12 +75,12 @@ a:visited {
   margin-right: auto;
 }
 
-.ad{
+/*.ad{
   position: absolute;
   top: 150px;
   left: 100px;
 	width: 600px;
 	height: 80px;
   background-color: #ccbb00;
-  z-index: 100;
-}
+  z-index: 1;
+}*/
