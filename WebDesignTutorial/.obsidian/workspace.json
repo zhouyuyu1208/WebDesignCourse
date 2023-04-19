@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDesignTutorial/23 十八、冻结和凝胶/4 课程小结(5min).md",
+                "file": "WebDesignTutorial/24 十九、相对定位/2 嵌套元素的定位(25min).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDesignTutorial/23 十八、冻结和凝胶/4 课程小结(5min).md",
+                "file": "WebDesignTutorial/24 十九、相对定位/2 嵌套元素的定位(25min).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDesignTutorial/23 十八、冻结和凝胶/4 课程小结(5min).md",
+                "file": "WebDesignTutorial/24 十九、相对定位/2 嵌套元素的定位(25min).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDesignTutorial/23 十八、冻结和凝胶/4 课程小结(5min).md"
+                "file": "WebDesignTutorial/24 十九、相对定位/2 嵌套元素的定位(25min).md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "f9d89bc2c1fb7fb1",
   "lastOpenFiles": [
+    "WebDesignTutorial/24 十九、相对定位/1 相对定位与文档流(15min).md",
+    "WebDesignTutorial/24 十九、相对定位/2 嵌套元素的定位(25min).md",
+    "WebDesignTutorial/24 十九、相对定位/0 课程引入(10min).md",
+    "WebDesignTutorial/23 十八、冻结和凝胶/1 冻结(20min).md",
+    "WebDesignTutorial/23 十八、冻结和凝胶/2 凝胶(15min).md",
+    "WebDesignTutorial/23 十八、冻结和凝胶/4 课程小结(5min).md",
     "WebDesignTutorial/24 十九、相对定位/2 用 float 修正页眉图像.md",
     "WebDesignTutorial/23 十八、冻结和凝胶/3 绝对定位(35min).md",
-    "WebDesignTutorial/23 十八、冻结和凝胶/4 课程小结(5min).md",
-    "WebDesignTutorial/23 十八、冻结和凝胶/2 凝胶(15min).md",
     "WebDesignTutorial/22 十七、浮动 Float/3 让元素按需 float(25min).md",
     "WebDesignTutorial/22 十七、浮动 Float/4 课程小结(10min).md",
     "WebDesignTutorial/22 十七、浮动 Float/3 让元素按需 float.md",
@@ -169,9 +173,6 @@
     "WebDesignTutorial/13 十、字体样式/0 课程引入(10min).md",
     "WebDesignTutorial/20 十五、层叠 Cascading/3 样式范围的层叠(30min).md",
     "WebDesignTutorial/20 十五、层叠 Cascading/1 样式表的层叠(20min).md",
-    "WebDesignTutorial/20 十五、层叠 Cascading/0 课程引入(10min).md",
-    "WebDesignTutorial/20 十五、层叠 Cascading/2 样式设置先后的层叠(10min).md",
-    "WebDesignTutorial/08 实训4：Git 与 GitHub/3 上机实训(30min).md",
-    "WebDesignTutorial/10 七、CSS 入门/2 为休闲吧增加样式(15min).md"
+    "WebDesignTutorial/20 十五、层叠 Cascading/0 课程引入(10min).md"
   ]
 }
