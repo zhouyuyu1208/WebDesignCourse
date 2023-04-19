@@ -149,12 +149,14 @@
   "active": "f9d89bc2c1fb7fb1",
   "lastOpenFiles": [
     "WebDesignTutorial/24 十九、相对定位/1 相对定位与文档流(15min).md",
+    "WebDesignTutorial/24 十九、相对定位/2 用 float 修正页眉图像.md",
+    "WebDesignTutorial/24 十九、相对定位/4 课程小结(5min).md",
     "WebDesignTutorial/24 十九、相对定位/2 嵌套元素的定位(25min).md",
+    "WebDesignTutorial/24 十九、相对定位/3 不同定位的使用场景(25min).md",
     "WebDesignTutorial/24 十九、相对定位/0 课程引入(10min).md",
     "WebDesignTutorial/23 十八、冻结和凝胶/1 冻结(20min).md",
     "WebDesignTutorial/23 十八、冻结和凝胶/2 凝胶(15min).md",
     "WebDesignTutorial/23 十八、冻结和凝胶/4 课程小结(5min).md",
-    "WebDesignTutorial/24 十九、相对定位/2 用 float 修正页眉图像.md",
     "WebDesignTutorial/23 十八、冻结和凝胶/3 绝对定位(35min).md",
     "WebDesignTutorial/22 十七、浮动 Float/3 让元素按需 float(25min).md",
     "WebDesignTutorial/22 十七、浮动 Float/4 课程小结(10min).md",
@@ -171,8 +173,6 @@
     "WebDesignTutorial/13 十、字体样式/3 重新认识 font-size(20min).md",
     "WebDesignTutorial/13 十、字体样式/2 重新认识 font-family(25min).md",
     "WebDesignTutorial/13 十、字体样式/0 课程引入(10min).md",
-    "WebDesignTutorial/20 十五、层叠 Cascading/3 样式范围的层叠(30min).md",
-    "WebDesignTutorial/20 十五、层叠 Cascading/1 样式表的层叠(20min).md",
-    "WebDesignTutorial/20 十五、层叠 Cascading/0 课程引入(10min).md"
+    "WebDesignTutorial/20 十五、层叠 Cascading/3 样式范围的层叠(30min).md"
   ]
 }
