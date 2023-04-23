@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "WebDesignTutorial/25 二十、CSS 表格布局/2  Starbazz 表格化(10min).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -148,6 +148,7 @@
   },
   "active": "f9d89bc2c1fb7fb1",
   "lastOpenFiles": [
+    "WebDesignTutorial/25 二十、CSS 表格布局/1 页面的表格布局(10min).md",
     "WebDesignTutorial/22 十七、浮动 Float/2 新的 Starbuzz 页面(15min).md",
     "WebDesignTutorial/22 十七、浮动 Float/1 观察元素的浮动(25min).md",
     "WebDesignTutorial/25 二十、CSS 表格布局/2  Starbazz 表格化(10min).md",
@@ -172,7 +173,6 @@
     "WebDesignTutorial/24 十九、相对定位/3 不同定位的使用场景(25min).md",
     "WebDesignTutorial/24 十九、相对定位/2 嵌套元素的定位(25min).md",
     "WebDesignTutorial/24 十九、相对定位/1 相对定位与文档流(15min).md",
-    "WebDesignTutorial/24 十九、相对定位/2 用 float 修正页眉图像.md",
-    "WebDesignTutorial/24 十九、相对定位/4 课程小结(5min).md"
+    "WebDesignTutorial/24 十九、相对定位/2 用 float 修正页眉图像.md"
   ]
 }
