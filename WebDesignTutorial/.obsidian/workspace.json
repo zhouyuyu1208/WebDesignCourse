@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDesignTutorial/25 二十、CSS 表格布局/2  Starbazz 表格化(10min).md",
+                "file": "WebDesignTutorial/26 二十一、CSS Sprites/1 用 float 修正页眉.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDesignTutorial/25 二十、CSS 表格布局/2  Starbazz 表格化(10min).md",
+                "file": "WebDesignTutorial/26 二十一、CSS Sprites/1 用 float 修正页眉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDesignTutorial/25 二十、CSS 表格布局/2  Starbazz 表格化(10min).md",
+                "file": "WebDesignTutorial/26 二十一、CSS Sprites/1 用 float 修正页眉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDesignTutorial/25 二十、CSS 表格布局/2  Starbazz 表格化(10min).md"
+                "file": "WebDesignTutorial/26 二十一、CSS Sprites/1 用 float 修正页眉.md"
               }
             }
           }
@@ -148,13 +148,17 @@
   },
   "active": "f9d89bc2c1fb7fb1",
   "lastOpenFiles": [
-    "WebDesignTutorial/25 二十、CSS 表格布局/3 为 Starbuzz 再增加一列(10min).md",
+    "WebDesignTutorial/26 二十一、CSS Sprites/0 课程引入(10min).md",
+    "WebDesignTutorial/21 十六、流 Flow/2 关于外边距的补充(30min).md",
+    "WebDesignTutorial/21 十六、流 Flow/1 一个两栏页面(30min).md",
+    "WebDesignTutorial/26 二十一、CSS Sprites/1 用 float 修正页眉.md",
+    "WebDesignTutorial/26 二十一、CSS Sprites/2 CSS Sprites.md",
     "WebDesignTutorial/25 二十、CSS 表格布局/2  Starbazz 表格化(10min).md",
+    "WebDesignTutorial/25 二十、CSS 表格布局/3 为 Starbuzz 再增加一列(10min).md",
     "WebDesignTutorial/25 二十、CSS 表格布局/1 页面的表格布局(10min).md",
     "WebDesignTutorial/22 十七、浮动 Float/2 新的 Starbuzz 页面(15min).md",
     "WebDesignTutorial/22 十七、浮动 Float/1 观察元素的浮动(25min).md",
     "WebDesignTutorial/22 十七、浮动 Float/0 课程引入(5min).md",
-    "WebDesignTutorial/21 十六、流 Flow/1 一个两栏页面(30min).md",
     "WebDesignTutorial/21 十六、流 Flow/0 课程引入(10min).md",
     "WebDesignTutorial/18 十三、div/3 为分区增加特定样式(20min).md",
     "WebDesignTutorial/18 十三、div/2 为 elixirs 增加样式(30min).md",
@@ -169,10 +173,6 @@
     "WebDesignTutorial/20 十五、层叠 Cascading/3 样式范围的层叠(30min).md",
     "WebDesignTutorial/20 十五、层叠 Cascading/2 样式设置先后的层叠(10min).md",
     "WebDesignTutorial/20 十五、层叠 Cascading/1 样式表的层叠(20min).md",
-    "WebDesignTutorial/20 十五、层叠 Cascading/0 课程引入(10min).md",
-    "WebDesignTutorial/21 十六、流 Flow/2 关于外边距的补充(30min).md",
-    "WebDesignTutorial/24 十九、相对定位/3 不同定位的使用场景(25min).md",
-    "WebDesignTutorial/24 十九、相对定位/2 嵌套元素的定位(25min).md",
-    "WebDesignTutorial/24 十九、相对定位/1 相对定位与文档流(15min).md"
+    "WebDesignTutorial/20 十五、层叠 Cascading/0 课程引入(10min).md"
   ]
 }
