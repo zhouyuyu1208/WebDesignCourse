@@ -87,16 +87,19 @@ div.tablerow{
 }
 
 .sprite-container {
-    width: 50%; /* 显示的宽度为图片一半 */ 
-    height: 100%; /* 图片高度 */
-    overflow: hidden; /* 隐藏溢出部分 */ 
-    background-image: url('img_navsprites.gif');
+  width: 260px; /* 显示的宽度为足够露出 Logo 和 slogan 为准 */ 
+  height: 100%; /* 图片高度 */
+  overflow: hidden; /* 隐藏溢出部分 */ 
 }
 
 .header-logo {
-	background-position: 0px 0px; /* 没有任何偏移 */
+	background-image: url('images/header.gif');
+	background-position-x: 0px;
+	background-position-y: 0px; /* 没有任何偏移 */
 }
 
 .header-slogan {
-	background-position: -400px 0px; /* 向左偏移 */
+	background-image: url('images/header.gif');
+	background-position: 260px 0px; /* 向左偏移 */
+  float: right;
 }
