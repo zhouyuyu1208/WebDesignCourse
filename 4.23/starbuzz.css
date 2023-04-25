@@ -103,3 +103,19 @@ div.tablerow{
 	background-position: 260px 0px; /* 向左偏移 */
   float: right;
 }
+
+.award {
+	position: absolute;
+	top: 30px;
+	left: 45%;
+}
+
+.coupon {
+	position: fixed;
+	top: 350px;
+	left: 0px;
+}
+
+.coupon a, img{
+	border: none;
+}
