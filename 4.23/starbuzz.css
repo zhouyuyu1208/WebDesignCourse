@@ -108,6 +108,11 @@ div.tablerow{
 	position: absolute;
 	top: 30px;
 	left: 45%;
+  transition: all 3s ease;
+}
+
+.award:hover{
+  scale: 30;
 }
 
 .coupon {
