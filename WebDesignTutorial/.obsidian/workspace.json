@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDesignTutorial/09 六、网页中的图像/0 课程引入(5min).md",
+                "file": "WebDesignTutorial/32 仿站/评价标准.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDesignTutorial/09 六、网页中的图像/0 课程引入(5min).md",
+                "file": "WebDesignTutorial/32 仿站/评价标准.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDesignTutorial/09 六、网页中的图像/0 课程引入(5min).md",
+                "file": "WebDesignTutorial/32 仿站/评价标准.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDesignTutorial/09 六、网页中的图像/0 课程引入(5min).md"
+                "file": "WebDesignTutorial/32 仿站/评价标准.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "f9d89bc2c1fb7fb1",
   "lastOpenFiles": [
+    "WebDesignTutorial/09 六、网页中的图像/0 课程引入(5min).md",
     "WebDesignTutorial/08 实训4：Git 与 GitHub/3 上机实训(30min).md",
     "WebDesignTutorial/08 实训4：Git 与 GitHub/3 上机实训.md",
     "WebDesignTutorial/08 实训4：Git 与 GitHub/2 教师演示：首次使用 GitHub(40min).md",
@@ -173,7 +174,6 @@
     "WebDesignTutorial/22 十七、浮动 Float/0 课程引入(5min).md",
     "WebDesignTutorial/21 十六、流 Flow/0 课程引入(10min).md",
     "WebDesignTutorial/18 十三、div/3 为分区增加特定样式(20min).md",
-    "WebDesignTutorial/18 十三、div/2 为 elixirs 增加样式(30min).md",
-    "WebDesignTutorial/18 十三、div/1 为页面逻辑分区(15min).md"
+    "WebDesignTutorial/18 十三、div/2 为 elixirs 增加样式(30min).md"
   ]
 }
