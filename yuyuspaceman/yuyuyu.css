@@ -1,0 +1,23 @@
+.y-HS-hero{
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  width: 1650px;
+}
+
+.y-inner-center{
+  position: relative;
+  color: white;
+  top: 200px;
+  left: 600px;
+  
+}
+
+.y-sub-header{
+  position: relative;
+  color:white;
+  top: 200px;
+  left: 600px;
+}

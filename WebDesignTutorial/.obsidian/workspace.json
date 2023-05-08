@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDesignTutorial/32 仿站/评价标准.md",
+                "file": "WebDesignTutorial/23 十八、冻结和凝胶/2 凝胶(15min).md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDesignTutorial/32 仿站/评价标准.md",
+                "file": "WebDesignTutorial/23 十八、冻结和凝胶/2 凝胶(15min).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDesignTutorial/32 仿站/评价标准.md",
+                "file": "WebDesignTutorial/23 十八、冻结和凝胶/2 凝胶(15min).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDesignTutorial/32 仿站/评价标准.md"
+                "file": "WebDesignTutorial/23 十八、冻结和凝胶/2 凝胶(15min).md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "f9d89bc2c1fb7fb1",
   "lastOpenFiles": [
+    "WebDesignTutorial/23 十八、冻结和凝胶/3 绝对定位(35min).md",
+    "WebDesignTutorial/23 十八、冻结和凝胶/2 凝胶(15min).md",
+    "WebDesignTutorial/22 十七、浮动 Float/2 新的 Starbuzz 页面(15min).md",
+    "WebDesignTutorial/21 十六、流 Flow/2 关于外边距的补充(30min).md",
+    "WebDesignTutorial/21 十六、流 Flow/1 一个两栏页面(30min).md",
+    "WebDesignTutorial/32 仿站/评价标准.md",
     "WebDesignTutorial/09 六、网页中的图像/0 课程引入(5min).md",
     "WebDesignTutorial/08 实训4：Git 与 GitHub/3 上机实训(30min).md",
     "WebDesignTutorial/08 实训4：Git 与 GitHub/3 上机实训.md",
@@ -163,17 +169,11 @@
     "WebDesignTutorial/26 二十一、CSS Sprites/3 再次修正页眉(30min).md",
     "WebDesignTutorial/26 二十一、CSS Sprites/1 用 float 修正页眉.md",
     "WebDesignTutorial/26 二十一、CSS Sprites/0 课程引入(10min).md",
-    "WebDesignTutorial/21 十六、流 Flow/2 关于外边距的补充(30min).md",
-    "WebDesignTutorial/21 十六、流 Flow/1 一个两栏页面(30min).md",
     "WebDesignTutorial/26 二十一、CSS Sprites/2 CSS Sprites.md",
     "WebDesignTutorial/25 二十、CSS 表格布局/2  Starbazz 表格化(10min).md",
     "WebDesignTutorial/25 二十、CSS 表格布局/3 为 Starbuzz 再增加一列(10min).md",
     "WebDesignTutorial/25 二十、CSS 表格布局/1 页面的表格布局(10min).md",
-    "WebDesignTutorial/22 十七、浮动 Float/2 新的 Starbuzz 页面(15min).md",
     "WebDesignTutorial/22 十七、浮动 Float/1 观察元素的浮动(25min).md",
-    "WebDesignTutorial/22 十七、浮动 Float/0 课程引入(5min).md",
-    "WebDesignTutorial/21 十六、流 Flow/0 课程引入(10min).md",
-    "WebDesignTutorial/18 十三、div/3 为分区增加特定样式(20min).md",
-    "WebDesignTutorial/18 十三、div/2 为 elixirs 增加样式(30min).md"
+    "WebDesignTutorial/22 十七、浮动 Float/0 课程引入(5min).md"
   ]
 }
