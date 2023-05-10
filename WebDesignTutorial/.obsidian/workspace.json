@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDesignTutorial/28 二十三、HML5 语义化/3 制作博客页面.md",
+                "file": "WebDesignTutorial/29 二十四、导航栏与页面视频/1 完成页面导航.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDesignTutorial/28 二十三、HML5 语义化/3 制作博客页面.md",
+                "file": "WebDesignTutorial/29 二十四、导航栏与页面视频/1 完成页面导航.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDesignTutorial/28 二十三、HML5 语义化/3 制作博客页面.md",
+                "file": "WebDesignTutorial/29 二十四、导航栏与页面视频/1 完成页面导航.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDesignTutorial/28 二十三、HML5 语义化/3 制作博客页面.md"
+                "file": "WebDesignTutorial/29 二十四、导航栏与页面视频/1 完成页面导航.md"
               }
             }
           }
@@ -148,12 +148,15 @@
   },
   "active": "f9d89bc2c1fb7fb1",
   "lastOpenFiles": [
-    "WebDesignTutorial/28 二十三、HML5 语义化/2 用语义化标签改造 Starbuzz.md",
+    "WebDesignTutorial/29 二十四、导航栏与页面视频/2 为博客添加视频.md",
+    "WebDesignTutorial/29 二十四、导航栏与页面视频/3 课程小结(5min).md",
+    "WebDesignTutorial/29 二十四、导航栏与页面视频/1 完成页面导航.md",
+    "WebDesignTutorial/29 二十四、导航栏与页面视频/0 课程引入(5min).md",
     "WebDesignTutorial/28 二十三、HML5 语义化/3 制作博客页面.md",
+    "WebDesignTutorial/28 二十三、HML5 语义化/2 用语义化标签改造 Starbuzz.md",
     "WebDesignTutorial/28 二十三、HML5 语义化/1 新的 HTML5 标记.md",
     "WebDesignTutorial/30 仿站/评价标准.md",
     "WebDesignTutorial/32 仿站/评价标准.md",
-    "WebDesignTutorial/29 二十四、导航栏与页面视频/3 课程小结(5min).md",
     "WebDesignTutorial/30 表格与列表/650.md",
     "WebDesignTutorial/28 HML5 语义化/588.md",
     "WebDesignTutorial/23 十八、冻结和凝胶/2 凝胶(15min).md",
@@ -171,9 +174,6 @@
     "WebDesignTutorial/27 固定定位和 CSS 动画/2 页面元素的固定定位(25min).md",
     "WebDesignTutorial/27 固定定位和 CSS 动画/1 增加一个奖杯(10min).md",
     "WebDesignTutorial/appendixes/271award.gif",
-    "WebDesignTutorial/26 二十一、CSS Sprites/3 再次修正页眉(25min).md",
-    "WebDesignTutorial/26 二十一、CSS Sprites/2 CSS Sprites(20min).md",
-    "WebDesignTutorial/26 二十一、CSS Sprites/3 再次修正页眉(30min).md",
-    "WebDesignTutorial/26 二十一、CSS Sprites/1 用 float 修正页眉.md"
+    "WebDesignTutorial/26 二十一、CSS Sprites/3 再次修正页眉(25min).md"
   ]
 }

@@ -12,6 +12,21 @@ body {
   margin-bottom: 0;
 }
 
+nav ul li a:link, nav ul li a:visited {
+	color: #954b4b;
+	border-bottom: none;
+	font-weight: bold;
+/*
+	text-shadow: 1px 1px 3px #e2c2c2; 
+	text-transform: uppercase;
+*/
+}
+
+nav ul li.selected {
+	background-color: #c8b99c;
+}
+
+
 /* added section#blog for blog */
 section.main, section.blog {
   display: table-cell;
