@@ -1,0 +1,163 @@
+Question 1: 本课程推荐的开发环境主要是由哪几个软件组成?
+答:
+Edge 浏览器
+VsCode 代码编辑器
+Windows Terminal 命令行终端
+WSL（Ubuntu）Linux 虚拟机
+
+
+Question 2: 请说出至少 5 个已经学过的 Git 命令，最好是按照先后顺序。
+git init
+git add [文件名]
+git add .
+git commit -m
+git status
+git log
+git reflog
+
+
+Question 2: 不允许参考笔记或计算机协助，请写出一个完整可用的超链接代码。
+答: <a href="index.html">回到首页</a>
+
+
+Question 1: JPEG / PNG / GIF 这三种格式的特性。
+答:
+JPEG 是一种有损压缩格式，不支持透明度，最多表示 1677 万种颜色（24位）。
+PNG 是一种无损压缩格式，支持透明度，最多支持 48 位色深，常见的 PNG 图像是 24 位或 32 位的。
+GIF 是一种无损压缩格式，支持单一颜色的透明度设置，最多表示 256 种颜色，支持动画。
+
+
+Question 2: HTML 中内联（行级）元素和块级元素的区别。
+答：内联元素（Inline Element）可以和其他内联元素的内容在同一行显示。块级元素（Block Element）是指每个元素都占据一行，它们会在前后创建新的行。
+
+
+Question 3：什么是 void 元素？
+答：在 HTML 中，Void 元素是指没有内容或结束标记的元素。它们在 HTML 中的使用是为了表示一些标记的存在或插入某些特殊的内容，比如图像、换行符、水平分割线等
+
+
+Question 2：
+<link type ="text/css" rel="stylesheet" href="lounge.css"> 
+这是一条为 HTML 文件引入外部 css 样式的网页代码，请解释一下这段代码。
+
+
+Question 1：有哪几类 font-family？
+答：衬线体、非衬线体、等宽字体、手写体、装饰体
+
+
+Question 3: 说出至少 3 种不同类别的 font-size 单位。并说出他们代表的意义。
+答：px 像素(16px)，rem 相对于根元素的大小（1.6rem），vw 相对于屏幕宽度的大小（10vw），in英寸，cm厘米。
+
+
+Question 4：font-weight 除了可以用关键字设置之外，还可以用数值设置，请罗列关键字和相关数值。
+答：bold lighter bloder normal 100 400 700 900
+
+
+Question 1：什么是 CSS 盒模型，每一个 HTML 元素都是由哪些盒模型元素组成的，请用中英文对照的形式说出盒模型的所有部件。
+答：内容 Content，内边距 Padding，边框 Border，外边距 Margin
+
+
+Question 2：请用英语单词指出盒模型的四个方向。
+答：top | right | bottom | left
+
+
+Question 3：上节课主要讨论了 CSS 盒模型，除此之外还提到了哪些新知识？
+答： class， line-height
+
+
+Question 1：请简述 span 标签的作用和特性。
+答：
+
+无预设样式的标签，
+为页面逻辑分区，
+block 块标签，div 前后自动换行，div 自动占满一行。
+
+
+block 块标签，div 前后自动换行，div 自动占满一行。
+Question 2：CSS Box 宽度的计算方法。
+答：margin-left + border-szie-left + padding-left + width + pdding-right + border-size-right + margin-right
+
+
+Question 3：父元素的子孙元素选择器写法， 父元素的子元素选择器写法
+答： parent son { } ， parent > son { }.
+
+
+Question 3：line-height: 1; 没有单位的 1 表示什么？
+答：没有单位的 1 ，解决的是父元素的 line-height 在无论是 12px 这样的固定值，还是 100%， 1em 这些相对值在被子元素继承后，无法用一个值解决子元素中不同的 font-size 均需配置合适的行高的问题。例子里没有单位的 1，即代表无论子元素的 font-size 是多少，行高都是自己本身的 1 倍。
+
+
+Question 1：请简述 div 标签的作用和特性。
+答：
+
+无预设样式的标签，
+in-line 内联元素（行级）。
+
+
+Question 2：什么是伪类？ div:first-child ul:last-child 分别代表什么含义？
+答：伪类 pseudo class，顾名思义 —— 即表现得像一个类，又不是真正的类。可以用 div:nth-child(even) 为所有 div 的第偶数子元素设置样式，你在 HTML页面上却根本找不到 class="nth-child(even)" 这样类的定义，所以称之为“伪类”。
+
+
+Question 3：超链接有哪几种常见状态，伪类名分别是什么。
+答：
+	/* 未访问状态 */
+	a:link {
+	  color: green;
+	}
+	
+	/* 已访问状态 */
+	a:visited {
+	  color: red;
+	}
+	
+	/* 悬停状态 */
+	a:hover {
+	  color: yellow;
+	}
+
+
+Question 3：line-height: 1; 没有单位的 1 表示什么？
+答：没有单位的 1 ，解决的是父元素的 line-height 在无论是 12px 这样的固定值，还是 100%， 1em 这些相对值在被子元素继承后，无法用一个值解决子元素中不同的 font-size 均需配置合适的行高的问题。例子里没有单位的 1，即代表无论子元素的 font-size 是多少，行高都是自己本身的 1 倍。
+
+
+Question 2：CSS 层叠发生引起样式冲突时优先级的判断口诀是什么？他们的含义是什么？
+答：越近越高，越小越高，越后越高。
+
+
+Question 2： 简述 margin 样式在不同元素不同方向上的计算差别。
+答：
+inline 元素，水平方向，margin 是两者相加
+block 元素，垂直方向，margin 是以两者中 margin 值大的那个为准
+block 元素互相嵌套， 无 border 时两者相加，有 border 时取较大值。
+
+
+Question 1：简述冻结和凝胶布局的关键。
+答：
+.allcontent {  
+	  width: 800px;
+	  margin: 0px auto;
+}
+
+
+Question 2： 什么是绝对定位，绝对定位优缺点有哪些？
+答： positon: absolute
+绝对定位脱离文档流，绝对定位后的元素和其他在 flow 里的元素互不干扰
+
+
+Question 3： 什么是 z-index，他的值有何意义？
+答： z-index 是页面元素在 z 轴上的次序，网页并非我们一般认为的二维平面，只有 x 轴和 y 轴，网页其实是三维的，拥有 z 轴， z-index 的值越大，页面元素离我们“越近”，会覆盖离 z-index 值较小的页面元素。
+
+
+Question 1：相对定位有什么特点?
+答：
+position: relative;
+相对定位脱离默认的 flow
+相对定位以元素本应该在 flow 中的位置为原点偏移
+
+
+Question 2： 与相对定位相比，绝对布局的原点有何特殊之处？
+答： 绝对定位元素相对于最近的非 static 祖先元素定位。如果没有已定位的祖先元素，则该元素的定位参考点会相对于初始包含块（initial containing block）进行定位，也就是相对于浏览器视窗的左上角
+
+
+Question 3： 相对定位与绝对定位的使用场景？
+答：包裹了所有元素的 div 内部应该按内容分成几个中等的区块，这些中等区块可以使用绝对定位进行放置，互不影响。 中等区块内部的元素，用相对定位微调，完善页面的视觉
+
+
