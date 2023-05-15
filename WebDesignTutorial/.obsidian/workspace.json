@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDesignTutorial/29 二十四、导航栏与页面视频/0 课程引入(5min).md",
+                "file": "WebDesignTutorial/14 十一、颜色样式/5 课程小结(10min).md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDesignTutorial/29 二十四、导航栏与页面视频/0 课程引入(5min).md",
+                "file": "WebDesignTutorial/14 十一、颜色样式/5 课程小结(10min).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDesignTutorial/29 二十四、导航栏与页面视频/0 课程引入(5min).md",
+                "file": "WebDesignTutorial/14 十一、颜色样式/5 课程小结(10min).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDesignTutorial/29 二十四、导航栏与页面视频/0 课程引入(5min).md"
+                "file": "WebDesignTutorial/14 十一、颜色样式/5 课程小结(10min).md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "f9d89bc2c1fb7fb1",
   "lastOpenFiles": [
+    "WebDesignTutorial/29 二十四、导航栏与页面视频/0 课程引入(5min).md",
     "WebDesignTutorial/29 二十四、导航栏与页面视频/1 完成页面导航.md",
     "WebDesignTutorial/29 二十四、导航栏与页面视频/2 为博客添加视频.md",
     "WebDesignTutorial/29 二十四、导航栏与页面视频/3 课程小结(5min).md",
@@ -173,7 +174,6 @@
     "WebDesignTutorial/25 二十、CSS 表格布局/2  Starbuzz 表格化(10min).md",
     "WebDesignTutorial/25 二十、CSS 表格布局/1 页面的表格布局(20min).md",
     "WebDesignTutorial/25 二十、CSS 表格布局/1 页面的表格布局(10min).md",
-    "WebDesignTutorial/14 十一、颜色样式/1 颜色.md",
     "WebDesignTutorial/appendixes/271award.gif"
   ]
 }
