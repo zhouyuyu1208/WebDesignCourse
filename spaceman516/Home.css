@@ -46,73 +46,10 @@ html,body {
   display: flex;
 }
 
-.Home-title-nav a {
-  text-decoration: none;
-  font-weight: bold;
-  color: white;
-  margin-left: 15px;
-  display: inline-block;
-  height: 100%;
-  background-size: 0px 2px;
-  transition: background-size 1s;
-}
-
-.Home-title-nav a:hover {
-  background-size: 100px 2px;
-  background-position-x: left;
-}
-
-.Home-title-nav a:nth-child(5) {
-  text-decoration: none;
-  font-weight: bold;
-  color: white;
-  margin-left: 15px;
-  display: inline-block;
-  height: 100%;
-  background-size: 0px 2px;
-  transition: background-size 1s;
-}
-
-.Home-title-nav-rigth {
-  height: 26px;
-  font-weight: bold;
-  margin-left: 15%;
-  margin-top: 46px;
-  text-decoration: none;
-  position: relative;
-  display: flex;
-}
-
-.Home-title-nav-rigth a {
-  display: inline-block;
-  text-decoration: none;
-  height: 20px;
-  font-weight: bold;
-  color: white;
-  height: 100%;
-  position: relative;
-  top: 0px;
-  left: -80px;
-  background-size: 0px 2px;
-  transition: background-size 1s;
-}
-
-.Home-title-nav-rigth a:hover {
-  background-size: 100px 2px;
-  background-position-x: left;
-}
-
-.Home-title-nav-rigth img {
-  width: 20px;
-  height: 90%;
-  position: relative;
-  left: -40px;
-}
-
 .Home-nr {
   max-width: 960px;
   width: 90%;
-  position: absolute;
+  position: relative;
   top: 30%;
   height: 200px;
   left: 18%;
@@ -130,11 +67,10 @@ html,body {
   margin-left: 40%;
 }
 
-
 .Home-title-keystroke{
   width: 100px;
   height: 50px;
-  position: absolute;
+  position: relative;
   top: 640px;
   left: 700px;
 }
