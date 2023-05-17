@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDesignTutorial/29 二十四、导航栏与页面视频/0 课程引入(5min).md",
+                "file": "WebDesignTutorial/27 二十二、固定定位和 CSS 动画/2 页面元素的固定定位(25min).md",
                 "mode": "preview",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "e6b9e1ad329425f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDesignTutorial/29 二十四、导航栏与页面视频/0 课程引入(5min).md",
+                "file": "WebDesignTutorial/27 二十二、固定定位和 CSS 动画/2 页面元素的固定定位(25min).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDesignTutorial/29 二十四、导航栏与页面视频/0 课程引入(5min).md",
+                "file": "WebDesignTutorial/27 二十二、固定定位和 CSS 动画/2 页面元素的固定定位(25min).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDesignTutorial/29 二十四、导航栏与页面视频/0 课程引入(5min).md"
+                "file": "WebDesignTutorial/27 二十二、固定定位和 CSS 动画/2 页面元素的固定定位(25min).md"
               }
             }
           }
@@ -148,10 +156,14 @@
   },
   "active": "f9d89bc2c1fb7fb1",
   "lastOpenFiles": [
+    "WebDesignTutorial/27 二十二、固定定位和 CSS 动画/1 增加一个奖杯(10min).md",
+    "WebDesignTutorial/27 二十二、固定定位和 CSS 动画/2 页面元素的固定定位(25min).md",
+    "WebDesignTutorial/27 二十二、固定定位和 CSS 动画/3 继续改造优惠券(35min).md",
+    "WebDesignTutorial/27 二十二、固定定位和 CSS 动画/0 课程引入(5min).md",
+    "WebDesignTutorial/29 二十四、导航栏与页面视频/0 课程引入(5min).md",
     "WebDesignTutorial/28 二十三、HML5 语义化/0 课程引入(5min).md",
     "WebDesignTutorial/27 固定定位和 CSS 动画/4 课程小结(5min).md",
     "WebDesignTutorial/27 固定定位和 CSS 动画/0 课程引入(5min).md",
-    "WebDesignTutorial/27 二十二、固定定位和 CSS 动画/0 课程引入(5min).md",
     "WebDesignTutorial/26 二十一、CSS Sprites/0 课程引入(10min).md",
     "WebDesignTutorial/25 二十、CSS 表格布局/0 课程引入(10min).md",
     "WebDesignTutorial/24 十九、相对定位/1 相对定位与文档流(15min).md",
@@ -170,10 +182,6 @@
     "WebDesignTutorial/16 十二、盒模型/1 创建新的休闲室(10min).md",
     "WebDesignTutorial/16 十二、盒模型/2 了解盒模型(30min).md",
     "WebDesignTutorial/16 盒模型/0 课程引入(10min).md",
-    "WebDesignTutorial/15 实训5：改造 Tony 的旅行日志/1 上机实训：HTML 改造(20min).md",
-    "WebDesignTutorial/14 十一、颜色样式/0 课程引入(10min) 1.md",
-    "WebDesignTutorial/14 十一、颜色样式/0 课程引入(10min).md",
-    "WebDesignTutorial/13 十、字体样式/3 重新认识 font-size(20min).md",
     "WebDesignTutorial/appendixes/271award.gif"
   ]
 }
