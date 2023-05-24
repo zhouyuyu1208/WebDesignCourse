@@ -30,7 +30,24 @@
         </div>
         <div class="Home-title-nav-rigth">
           <a href="">SHOP</a>
-          <img src="img/zhankai.png" alt="">
+          <img src="img/zhankai.png" alt="" class="img-select"> 
+        </div>
+        <div class="Home-select" id="Home-select-i" style="display: block;height: 0px;">
+          <div class="Home-select-item">
+              MISSION
+          </div>
+          <div class="Home-select-item" style="text-indent: 8em;">
+              LAUNCHES
+          </div>
+          <div class="Home-select-item" >
+              CAREERS
+          </div>
+          <div class="Home-select-item" >
+              UPDATES
+          </div>
+          <div class="Home-select-item" >
+              SHOP
+          </div>
         </div>
       </div>
       <div class="Home-nr">
@@ -38,3 +55,24 @@
         <h6>Making life multiplanetary</h6>
       </div>
     </div>
+
+    <script>
+      let img_selcet = document.querySelector(".img-select")
+      let Home_select = document.querySelector(".Home-select")
+      let flase = true
+      img_selcet.addEventListener("click",function(){
+          if(flase){
+              Home_select.style.display = "block"
+          setTimeout(()=>{
+              Home_select.style.height = "400px"
+          },300)
+          flase =! flase
+          }else{
+              Home_select.style.height = "0px"
+              flase =! flase
+          }
+      })
+   </script>
+
+  </body>
+</html>

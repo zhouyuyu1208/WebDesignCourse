@@ -49,7 +49,7 @@ Question 3: 说出至少 3 种不同类别的 font-size 单位。并说出他们
 
 
 Question 4：font-weight 除了可以用关键字设置之外，还可以用数值设置，请罗列关键字和相关数值。
-答：bold lighter bloder normal 100 400 700 900
+答：lighter normal blod bloder 100 400 700 900
 
 
 Question 1：什么是 CSS 盒模型，每一个 HTML 元素都是由哪些盒模型元素组成的，请用中英文对照的形式说出盒模型的所有部件。
